@@ -12,13 +12,13 @@ The game ends when both players have made all possible substrings.
 A player gets +1 point for each occurrence of the substring in the string *S*.
 
 **For Example:**  
-String *S* = BANANA
-Kevin's vowel beginning word = ANA
+String *S* = BANANA  
+Kevin's vowel beginning word = ANA  
 Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 For better understanding, see the image below:
 
-![The Minion Game](https://s3.amazonaws.com/hr-challenge-images/9693/1450330231-04db904008-banana.png)]
+![The Minion Game](https://s3.amazonaws.com/hr-challenge-images/9693/1450330231-04db904008-banana.png)
 
 Your task is to determine the winner of the game and their score.
 
@@ -47,4 +47,4 @@ BANANA
 Stuart 12
 ```
 Note :
-Vowels are only defined as *AEIOU*. In this problem, *Y* is not considered a vowel.
+Vowels are only defined as *[AEIOU]*. In this problem, *Y* is not considered a vowel.
